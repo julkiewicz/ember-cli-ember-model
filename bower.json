@@ -13,7 +13,7 @@
     "qunit": "~1.17.1"
   },
   "devDependencies": {
-    "ember-model": "^0.0.16",
+    "ember-model": "^0.0.18",
     "pretender": "0.1.0"
   }
 }

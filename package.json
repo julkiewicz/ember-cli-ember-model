@@ -1,6 +1,6 @@
 {
   "name": "ember-model",
-  "version": "0.0.16",
+  "version": "0.0.18",
   "description": "A lightweight model library for Ember.js",
   "directories": {
     "doc": "doc",
@@ -21,17 +21,17 @@
   "author": "Erik Bryn",
   "license": "MIT",
   "devDependencies": {
-    "broccoli-asset-rev": "^2.0.2",
-    "ember-cli": "^0.2.7",
-    "ember-cli-app-version": "0.3.3",
-    "ember-cli-dependency-checker": "^1.0.0",
-    "ember-cli-htmlbars": "^0.7.6",
-    "ember-cli-ic-ajax": "^0.1.1",
-    "ember-cli-inject-live-reload": "^1.3.0",
+    "broccoli-asset-rev": "^2.4.2",
+    "ember-cli": "^2.5.0",
+    "ember-cli-app-version": "^1.0.0",
+    "ember-cli-dependency-checker": "^1.2.0",
+    "ember-cli-htmlbars": "^1.0.3",
+    "ember-cli-ic-ajax": "^0.2.1",
+    "ember-cli-inject-live-reload": "^1.4.0",
     "ember-cli-pretender": "^0.3.1",
-    "ember-cli-qunit": "^0.3.13",
-    "ember-cli-uglify": "^1.0.1",
-    "ember-export-application-global": "^1.0.2"
+    "ember-cli-qunit": "^1.4.0",
+    "ember-cli-uglify": "^1.2.0",
+    "ember-export-application-global": "^1.0.3"
   },
   "keywords": [
     "ember-addon"
